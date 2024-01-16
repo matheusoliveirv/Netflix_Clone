@@ -1,6 +1,5 @@
 <h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://static.vecteezy.com/system/resources/previews/017/396/804/original/netflix-mobile-application-logo-free-png.png"></a>
+     <img align="center" width="40px" src="https://static.vecteezy.com/system/resources/previews/017/396/804/original/netflix-mobile-application-logo-free-png.png">
     <span>Netflix Clone</span>
 </h1>
 
